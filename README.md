@@ -114,3 +114,29 @@
 </div>
 
 ###
+
+<br>
+
+
+# 📫 Get in Touch
+
+- 📧 Email: rashmi603600@gmail.com
+
+- 🔗 LinkedIn: linkedin.com/in/rashmi-315703219
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake.svg"
+  />
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/Rashmi000Rashmi/Rashmi000Rashmi/output/github-snake.svg"
+  />
+</picture>
