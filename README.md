@@ -122,8 +122,7 @@
 
 - 📧 Email: rashmi603600@gmail.com
 
-- 🔗 LinkedIn: linkedin.com/in/rashmi-315703219
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rashmi-315703219/)
 <br>
 
 <picture>
