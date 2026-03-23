@@ -2,13 +2,7 @@
 
 # 👩‍💻 About Me
 
-- 🎓 MSc in Information Technology, University of New Hampshire (GPA: 4.0/4.0)
-
-- 💼 2.5+ year as a Java Full-Stack Developer at Cognizant
-
-- 🚀 Passionate about building scalable microservices, cloud-native applications, and AI-powered tools
-
-- 🛠️ Main Tech: Java, Spring Boot, Python, Docker, AWS, React, Flask, Git, CI/CD
+- 🎓 MSc in Information Technology, University of New Hampshire (GPA: 3.9/4.0)
 
   <br>
 
@@ -122,7 +116,7 @@
 
 - 📧 Email: rashmi603600@gmail.com
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rashmi-315703219/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rashmi-4842b1316/)
 <br>
 
 <picture>
